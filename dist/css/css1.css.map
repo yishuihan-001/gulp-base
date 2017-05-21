@@ -1,0 +1,1 @@
+{"version":3,"sources":["css1.css"],"names":[],"mappings":"AAAA,KACI,WAAA,IAAA,MAAA,QACA,UAAA","file":"css1.css","sourcesContent":["body {\r\n    border-top:1px solid #ABCDEF;\r\n    font-size: 18px;\r\n}"]}
